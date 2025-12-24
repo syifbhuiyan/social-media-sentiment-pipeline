@@ -27,3 +27,5 @@ The pipeline was tested on a dataset of 1,000 public social media comments.
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
+2. Open sentiment_topic_pipeline.ipynb in Jupyter Notebook or Google Colab to run the analysis.
